@@ -1,4 +1,3 @@
-#Hi there, I'm Lukas!
 
 # Stats:
 ![](https://komarev.com/ghpvc/?username=Valskis&color=blueviolet)
