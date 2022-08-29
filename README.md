@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://i.imgur.com/mtVyPBC.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Lukas Valskis</h1>
 <h3 align="center">A passionate frontend developer who's currently learning backend aswell.</h3>
